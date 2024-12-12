@@ -14,7 +14,7 @@ connectDB()
 connectCloudinary()
 
 app.use(cors({ origin: 'https://medsync-frontend.onrender.com' }));
-app.use(cors({ origin: 'https://medsync-admin.vercel.app' }));
+
 
 // middlewares
 app.use(express.json())
