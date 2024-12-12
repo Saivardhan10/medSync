@@ -13,7 +13,8 @@ const port = process.env.PORT || 4001
 connectDB()
 connectCloudinary()
 
-app.use(cors({ origin: 'https://medsync-frontend.onrender.com' }));
+//app.use(cors({ origin: 'https://medsync-frontend.onrender.com' }));
+app.use(cors({ origin: '*' }));
 
 
 // middlewares
