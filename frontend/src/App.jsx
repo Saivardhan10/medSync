@@ -12,6 +12,7 @@ import MyProfile from './Pages/MyProfile'
 import Footer from './components/Footer'
 import { ToastContainer } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
+//import axios from 'axios'
 //import Verify from './pages/Verify'
 
 const App = () => {
