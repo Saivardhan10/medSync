@@ -40,7 +40,7 @@ const Navbar = () => {
           <li className='border px-5 text-xs py-1.5 rounded-full border-black'>Admin/Doctor Login</li>
         </NavLink>
         <NavLink target='_blank' to='https://ai-based-doctor-recommendation-system.streamlit.app/' >
-          <li className='bg-[#39FF14] text-white border px-5 text-xs py-1.5 rounded-full border-black'>MedSync.AI</li>
+          <li className='bg-[#b163ff] text-white border px-5 text-xs py-1.5 rounded-full border-black'>MedSync.AI</li>
         </NavLink>
       </ul>
 
