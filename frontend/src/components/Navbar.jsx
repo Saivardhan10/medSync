@@ -39,6 +39,9 @@ const Navbar = () => {
         <NavLink target='_blank' to='https://medsync-admin.onrender.com' >
           <li className='border px-5 text-xs py-1.5 rounded-full border-black'>Admin/Doctor Login</li>
         </NavLink>
+        <NavLink target='_blank' to='https://ai-based-doctor-recommendation-system.streamlit.app/' >
+          <li className='border px-5 text-xs py-1.5 rounded-full border-black'>MedSync.AI</li>
+        </NavLink>
       </ul>
 
       <div className='flex items-center gap-4 '>
