@@ -1,4 +1,4 @@
-# MedSync - - A Smart Virtual Healthcare Application integrated with AI-Based Doctor Recommendation System
+# MedSync - A Smart Virtual Healthcare Application integrated with AI-Based Doctor Recommendation System
 
 
 MedSync is a modern, feature-rich web application designed to simplify doctor appointment bookings for users while empowering healthcare professionals to manage their schedules effectively. Built using the MERN stack (MongoDB, Express.js, React.js, Node.js), MedSync bridges the gap between healthcare providers and patients, offering a seamless and user-friendly experience.
